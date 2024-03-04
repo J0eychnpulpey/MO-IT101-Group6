@@ -1,4 +1,4 @@
-IT101 A1102 | mot0rPh Payroll System | Group 6
+IT101 A1102 | MotorPH Payroll System | Group 6
 
 ![image](https://github.com/J0eychnpulpey/MO-IT101-Group6/assets/106713068/428aa829-a5fb-4399-860e-0a57fb12b4c0)
 
@@ -20,7 +20,13 @@ Group members
 
 Our Mentor - Juanito O...
 
-To function the attendance.csv all you need to do is to copy the filepath
+## Deployment
+
+- Clone the repository to your local machine.
+
+- Compile and run the project using a Java development environment.
+
+- To function the attendance.csv all you need to do is to copy the filepath
 
 ![image](https://github.com/J0eychnpulpey/MO-IT101-Group6/assets/106713068/505ed491-bdfd-4a1c-b768-fbd47db4f081)
 
