@@ -21,6 +21,7 @@ Group members
 Our Mentor - Juanito O...
 
 To function the attendance.csv all you need to do is to copy the filepath
+
 ![image](https://github.com/J0eychnpulpey/MO-IT101-Group6/assets/106713068/505ed491-bdfd-4a1c-b768-fbd47db4f081)
 
 then paste it into EmployeeFileReader.java in line 20 for String filepath = " paste here ";
