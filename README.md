@@ -4,7 +4,7 @@ IT101 A1102 | MotorPH Payroll System | Group 6 | Version 1 |
 
 
 For Code Analysis kindly click this Google Doc : https://docs.google.com/document/d/1SGDl1YLk5Ah1F6rhV6KtyEBet_qqjWDGrEuay0-PiQA/edit?usp=sharing
-
+MO-IT101 | Quality Assurance Testing Group 6 : https://docs.google.com/spreadsheets/d/1PeMqvh-aKTlnn5HnvAv36Wqo1VGKcJsnggcd2httVZc/edit?usp=sharing
 Group members
 
 - Ian Federico S...
