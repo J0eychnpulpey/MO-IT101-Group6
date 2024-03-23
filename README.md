@@ -1,5 +1,7 @@
 IT101 A1102 | MotorPH Payroll System | Group 6 | Version 1 | 
 
+For | version 2 updated | https://github.com/J0eychnpulpey/MO-IT101-GRP6.V2/tree/main
+
 ![image](https://github.com/J0eychnpulpey/MO-IT101-Group6/assets/106713068/428aa829-a5fb-4399-860e-0a57fb12b4c0)
 
 
